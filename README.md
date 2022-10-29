@@ -1,2 +1,2 @@
-# ng-ol-ext
-Openlayers app on latest angular
+# ng-ol-ext (Openlayers and Angular)
+Openlayers basic functionality using latest angular
